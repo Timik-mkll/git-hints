@@ -4,3 +4,4 @@
 
 `git clone https://github.com/PraktikumJava/git-hints.git`
 Я узнал о том, какие статусы бывают у файлов! Это untracked, tracked, staged и modified!
+У каждого коммита есть уникальный хэш!
